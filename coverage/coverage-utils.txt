@@ -1,0 +1,11 @@
+mode: set
+searchprice/utils/string/string.go:9.52,10.18 1 1
+searchprice/utils/string/string.go:14.2,14.105 1 1
+searchprice/utils/string/string.go:10.18,12.3 1 1
+searchprice/utils/string/string.go:17.78,18.19 1 1
+searchprice/utils/string/string.go:22.2,22.28 1 1
+searchprice/utils/string/string.go:29.2,29.37 1 1
+searchprice/utils/string/string.go:33.2,33.12 1 1
+searchprice/utils/string/string.go:18.19,20.3 1 1
+searchprice/utils/string/string.go:22.28,27.3 1 1
+searchprice/utils/string/string.go:29.37,31.3 1 1
